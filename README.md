@@ -63,3 +63,5 @@ Desenvolver este projeto me permitiu consolidar conceitos práticos importantes 
 - **Sistemas Distribuídos e Concorrência:** Gerenciamento de processos paralelos de forma assíncrona, onde um worker atua de maneira independente gerando carga, enquanto a API gerencia requisições e conexões de rede simultaneamente.
 - **Persistência de Dados e Modelagem:** Manipulação de bancos NoSQL através do Mongoose, aplicando validações, índices de busca eficientes e tipagem de dados estruturados.
 - **Consumo de APIs e DOM Dinâmico:** Atualização visual reativa no frontend consumindo dados no formato JSON, integrando com bibliotecas de renderização de gráficos (Chart.js) sem a necessidade de recarregar a interface.
+
+<img width="1971" height="986" alt="Captura de tela 2026-06-25 201955" src="https://github.com/user-attachments/assets/800e97f4-bb01-4c2d-a7d7-aab8d07b32d1" />
